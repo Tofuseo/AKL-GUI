@@ -1,0 +1,32 @@
+{
+  "dane1": [
+    {
+      "parameter": "1",
+      "height" : "100",
+      "position": "0,0",
+      "Atmo_pressure": "1013",
+      "Wind": "North",
+      "Velocity": "30"
+    }
+  ],
+  "dane2": [
+    {
+      "parameter": "2",
+      "height" : "101",
+      "position": "0,1",
+      "Atmo_pressure": "1013",
+      "Wind": "North",
+      "Velocity": "40"
+    }
+  ],
+  "dane3": [
+    {
+      "parameter": "3",
+      "height" : "101",
+      "position": "1,2",
+      "Atmo_pressure": "1012",
+      "Wind": "North-West",
+      "Velocity": "50"
+    }
+  ]
+}
