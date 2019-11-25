@@ -2,7 +2,7 @@
   "dane1": [
     {
       "parameter": "1",
-      "height" : "100",
+      "height" : "101",
       "lat": "51.144894309328016",
       "lon": "17.1",
       "Atmo_pressure": "1013",
@@ -13,7 +13,7 @@
   "dane2": [
     {
       "parameter": "1",
-      "height" : "100",
+      "height" : "102",
       "lat": "51.144894309328016",
       "lon": "18",
       "Atmo_pressure": "1013",
@@ -23,35 +23,35 @@
   ],
   "dane3": [
     {
-      "parameter": "1",
-      "height" : "100",
+      "parameter": "2",
+      "height" : "103",
       "lat": "51.144894309328016",
       "lon": "19",
-      "Atmo_pressure": "1013",
-      "Wind": "North",
-      "Velocity": "30"
+      "Atmo_pressure": "1014",
+      "Wind": "South",
+      "Velocity": "40"
     }
   ],
   "dane4": [
     {
-      "parameter": "1",
-      "height" : "100",
+      "parameter": "3",
+      "height" : "104",
       "lat": "51.144894309328016",
       "lon": "20",
-      "Atmo_pressure": "1013",
-      "Wind": "North",
-      "Velocity": "30"
+      "Atmo_pressure": "1011",
+      "Wind": "South-East",
+      "Velocity": "45"
     }
     ],
   "dane5": [
     {
-      "parameter": "1",
-      "height" : "100",
+      "parameter": "4",
+      "height" : "105",
       "lat": "51.144894309328016",
       "lon": "17.0182",
-      "Atmo_pressure": "1013",
-      "Wind": "North",
-      "Velocity": "30"
+      "Atmo_pressure": "1012",
+      "Wind": "West",
+      "Velocity": "50"
     }
     ]
 }
