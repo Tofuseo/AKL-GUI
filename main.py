@@ -38,7 +38,7 @@ class MyGrid(GridLayout):
         self.add_widget(self.vel)
 
 def tak(liczb):
-    with open('przyklady.json') as f:
+    with open('przyklady1.json') as f:
         data = json.load(f)
     for i in data['dane1']:
         new_string = i
